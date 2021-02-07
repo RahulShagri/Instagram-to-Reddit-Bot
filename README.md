@@ -1,3 +1,5 @@
+![Logo](images/logo.png)
+
 # About
 
 A reddit bot that automatically cross-posts updates posted on the [Manipal Updates Instagram Page](https://www.instagram.com/manipalupdates/) to reddit on the subreddit [r/manipal](https://www.reddit.com/r/manipal/) and links to the original instagram post in the comments.
