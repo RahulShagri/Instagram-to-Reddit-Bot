@@ -6,7 +6,7 @@ A reddit bot that automatically cross-posts updates posted on the [Manipal Updat
 
 <h1>Instructions</h1>
 
-1. Make sure you have Python 3.6* installed and working, preferably in a virtual environment. 
+1. Make sure you have Python 3.9 installed and working, preferably in a virtual environment. 
 
 2. Clone the repository:
 
